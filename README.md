@@ -4,7 +4,9 @@
 
 ---
 
-### NOTE: The following .ipynb file can be loaded into a Google Colaboratory (Colab) environment, then run the cells sequentially from top to bottom.
+### NOTE: 
+
+The following .ipynb file can be loaded into a Google Colaboratory (Colab) environment. Once loaded, run the cells sequentially from top to bottom.
 
 https://research.google.com/colaboratory/
 
